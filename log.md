@@ -18,3 +18,13 @@
 
 **Link to work:** [**2c45bf**](https://github.com/frozeeen/Nap-PHP/tree/2c45bf31c84ce9c5ee724c3ba2d3aa6604fd1cd1).
 
+---
+
+### Day 3:  April 3, Sunday
+
+**Today's Progress:** Sail's first function was written.
+
+**Thoughts:** I'm planning to use bundler soon and an interface for easy access..
+
+**Link to work:** [**b48a53**](https://github.com/frozeeen/sink/tree/b48a53408ac534435a08c0412e5ba609a0b4ec77).
+
