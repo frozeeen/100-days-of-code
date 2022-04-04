@@ -14,7 +14,7 @@
 
 **Today's Progress:** Updated the Validation class of the NAP-PHP.
 
-**Thoughts:** I want to add more checks, but I think this is enough as of now. A lot of "dreamy" functionality can stall progress..
+**Thoughts:** I want to add more checks, but I think this is enough as of now. A lot of "dreamy" functionality can stall progress.
 
 **Link to work:** [**2c45bf**](https://github.com/frozeeen/Nap-PHP/tree/2c45bf31c84ce9c5ee724c3ba2d3aa6604fd1cd1).
 
@@ -24,7 +24,16 @@
 
 **Today's Progress:** Sail's first function was written.
 
-**Thoughts:** I'm planning to use bundler soon and an interface for easy access..
+**Thoughts:** I'm planning to use bundler soon and an interface for easy access.
 
 **Link to work:** [**b48a53**](https://github.com/frozeeen/sink/tree/b48a53408ac534435a08c0412e5ba609a0b4ec77).
 
+---
+
+### Day 4:  April 4, Monday
+
+**Today's Progress:** Build the page that will act as the 3vil site for testing.
+
+**Thoughts:** The user should set the configuration depending on the target 3vil site.
+
+**Link to work:** [**415142**](https://github.com/frozeeen/sink/tree/415142d3d1bb0dc53e59870817e672e4a0afe9b3).
