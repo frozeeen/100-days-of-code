@@ -37,3 +37,13 @@
 **Thoughts:** The user should set the configuration depending on the target 3vil site.
 
 **Link to work:** [**415142**](https://github.com/frozeeen/sink/tree/415142d3d1bb0dc53e59870817e672e4a0afe9b3).
+
+---
+
+### Day 5:  April 5, Tuesday
+
+**Today's Progress:** Created the sink dashboard.
+
+**Thoughts:** The basic interface is done, and experience does really help a lot in debugging. There's a flash, "ah! ok" that solves the specific bug. Grinding is worth it.
+
+**Link to work:** [**3c8ccb**](https://github.com/frozeeen/sink/tree/3c8ccb465d3cf8d7b8f721fba3229e831a069a62).
