@@ -47,3 +47,13 @@
 **Thoughts:** The basic interface is done, and experience does really help a lot in debugging. There's a flash, "ah! ok" that solves the specific bug. Grinding is worth it.
 
 **Link to work:** [**3c8ccb**](https://github.com/frozeeen/sink/tree/3c8ccb465d3cf8d7b8f721fba3229e831a069a62).
+
+---
+
+### Day 6:  April 6, Wednesday
+
+**Today's Progress:** Updated the Sink Dashboard and it's now loaded using Javascript.
+
+**Thoughts:** While studying and reading headers, I think I should also add a configuration field for headers.
+
+**Link to work:** [**5cb579**](https://github.com/frozeeen/sink/tree/5cb5796e6489ff987bb7dcc9e56b0dc170c8ada1).
