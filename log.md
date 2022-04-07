@@ -57,3 +57,13 @@
 **Thoughts:** While studying and reading headers, I think I should also add a configuration field for headers.
 
 **Link to work:** [**5cb579**](https://github.com/frozeeen/sink/tree/5cb5796e6489ff987bb7dcc9e56b0dc170c8ada1).
+
+---
+
+### Day 7:  April 7, Thursday
+
+**Today's Progress:** Added confirmation and updated minimal design.
+
+**Thoughts:** I'm wondering how other people can counter this kind script.
+
+**Link to work:** [**353125**](https://github.com/frozeeen/sink/tree/3531253486ab1e273c8a3442e9f92e0d062c566c).
