@@ -77,3 +77,13 @@
 **Thoughts:** Because of the length of the lists, my editor is *internally screaming*.
 
 **Link to work:** [**a75f26**](https://github.com/frozeeen/sink/tree/a75f266470f1108fc647429ca8b9e2bfe4d103cd).
+
+---
+
+### Day 9:  April 9, Saturday
+
+**Today's Progress:** Uploaded the sink to heroku so that everybody can use it.
+
+**Thoughts:** Github + heroku *chef kiss*.
+
+**Link to work:** [**d5bc45**](https://github.com/frozeeen/sink/tree/d5bc45568e4d1148d217be4217e842095f75e735).
