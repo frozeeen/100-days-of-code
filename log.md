@@ -67,3 +67,13 @@
 **Thoughts:** I'm wondering how other people can counter this kind script.
 
 **Link to work:** [**353125**](https://github.com/frozeeen/sink/tree/3531253486ab1e273c8a3442e9f92e0d062c566c).
+
+---
+
+### Day 8:  April 8, Friday
+
+**Today's Progress:** Added big list of random names and words.
+
+**Thoughts:** Because of the length of the lists, my editor is *internally screaming*.
+
+**Link to work:** [**a75f26**](https://github.com/frozeeen/sink/tree/a75f266470f1108fc647429ca8b9e2bfe4d103cd).
