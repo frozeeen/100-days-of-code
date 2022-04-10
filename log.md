@@ -87,3 +87,15 @@
 **Thoughts:** Github + heroku *chef kiss*.
 
 **Link to work:** [**d5bc45**](https://github.com/frozeeen/sink/tree/d5bc45568e4d1148d217be4217e842095f75e735).
+
+---
+
+### Day 10:  April 10, Sunday
+
+**Today's Progress:** Explore and review the power of REGEX.
+
+**Thoughts:** I still remember solving a CP problem using Regex, but it seems like I can't remember how to do it anymore.
+
+**Link(s) to work**
+1. [RegexOne](https://regexone.com)
+2. [RegexTesting](https://www.regextester.com)
