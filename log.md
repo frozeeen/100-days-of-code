@@ -99,3 +99,13 @@
 **Link(s) to work**
 1. [RegexOne](https://regexone.com)
 2. [RegexTesting](https://www.regextester.com)
+
+---
+
+### Day 11:  April 11, Monday
+
+**Today's Progress:** Created a simple script to include JS files into another JS file..
+
+**Thoughts:** NodeJS version coming up, I think.
+
+**Link to work:** [**b02d91**](https://github.com/frozeeen/includejs/tree/b02d91a8e08516b33fe0a90c73c366e2fce78432).
