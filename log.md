@@ -104,8 +104,18 @@
 
 ### Day 11:  April 11, Monday
 
-**Today's Progress:** Created a simple script to include JS files into another JS file..
+**Today's Progress:** Created a simple script to include JS files into another JS file.
 
 **Thoughts:** NodeJS version coming up, I think.
 
 **Link to work:** [**b02d91**](https://github.com/frozeeen/includejs/tree/b02d91a8e08516b33fe0a90c73c366e2fce78432).
+
+---
+
+### Day 12:  April 12, Tuesday
+
+**Today's Progress:** I created a simple script to include JS files into another JS file. However, I am now using #javascript and #nodemon to monitor file changes.
+
+**Thoughts:** NodeJS done, maybe I'll end this script here (temporarily).
+
+**Link to work:** [**ab5a4f**](https://github.com/frozeeen/includejs/tree/ab5a4fe5d23fa536a1fa8544aea421a12652756b).
