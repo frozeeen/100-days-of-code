@@ -119,3 +119,15 @@
 **Thoughts:** NodeJS done, maybe I'll end this script here (temporarily).
 
 **Link to work:** [**ab5a4f**](https://github.com/frozeeen/includejs/tree/ab5a4fe5d23fa536a1fa8544aea421a12652756b).
+
+---
+
+### Day 13:  April 13, Wednesday
+
+**Today's Progress:** Solved programming problems (Math, String manipulation) and a little cryptography review.
+
+**Thoughts:** Hello old friend (Competitive programming)!.
+
+**Link(s) to work**
+1. [CodeForces](https://codeforces.com)
+2. [ROT13](https://gist.github.com/frozeeen/647bab9984f764e840e8ae2b9a64ccc6)
