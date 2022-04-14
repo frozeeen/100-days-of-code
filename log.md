@@ -131,3 +131,14 @@
 **Link(s) to work**
 1. [CodeForces](https://codeforces.com)
 2. [ROT13](https://gist.github.com/frozeeen/647bab9984f764e840e8ae2b9a64ccc6)
+
+---
+
+### Day 14:  April 14, Thursday
+
+**Today's Progress:** Solved programming problems again and some front-end stuff for my school activity.
+
+**Thoughts:** Wanna improve my designing skilssss 🎶.
+
+**Link(s) to work**
+1. [CodeForces](https://codeforces.com)
