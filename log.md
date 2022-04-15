@@ -142,3 +142,14 @@
 
 **Link(s) to work**
 1. [CodeForces](https://codeforces.com)
+
+---
+
+### Day 15:  April 15, Friday
+
+**Today's Progress:** Playing with OpenCV.
+
+**Thoughts:** You can ! see me.
+
+**Link(s) to work**
+1. [OpenCV](https://opencv.org/)
