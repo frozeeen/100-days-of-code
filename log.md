@@ -153,3 +153,14 @@
 
 **Link(s) to work**
 1. [OpenCV](https://opencv.org/)
+
+---
+
+### Day 16:  April 16, Saturday
+
+**Today's Progress:** Playing with OpenCV (Part 2).
+
+**Thoughts:** Now switching to numpy and opencv to edit anything 😆, jk. 
+
+**Link(s) to work**
+1. [OpenCV](https://opencv.org/)
