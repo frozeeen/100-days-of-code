@@ -164,3 +164,14 @@
 
 **Link(s) to work**
 1. [OpenCV](https://opencv.org/)
+
+---
+
+### Day 17:  April 17, Sunday
+
+**Today's Progress:** Playing with OpenCV (Part 3).
+
+**Thoughts:** It's not a map, it's a cat! 
+
+**Link(s) to work**
+1. [OpenCV](https://opencv.org/)
