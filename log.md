@@ -175,3 +175,14 @@
 
 **Link(s) to work**
 1. [OpenCV](https://opencv.org/)
+
+---
+
+### Day 18:  April 18, Monday
+
+**Today's Progress:** Planting the PixSeed publicly.
+
+**Thoughts:** It's not very secure, but it's fine as of now 😆. 
+
+**Link(s) to work**
+1. [PixSeed](https://github.com/frozeeen/pixseed)
