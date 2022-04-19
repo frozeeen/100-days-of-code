@@ -186,3 +186,13 @@
 
 **Link(s) to work**
 1. [PixSeed](https://github.com/frozeeen/pixseed)
+
+---
+
+### Day 19:  April 19, Tuesday
+
+**Today's Progress:** Update the `genkey` of Pixseed and learned how to use `getopt`.
+
+**Thoughts:** Planning to revise the seeder, but next time.
+
+**Link to work:** [**475bba**](https://github.com/frozeeen/pixseed/commit/475bba6a7d192a36ba168ed408213b63a9c19e9a).
