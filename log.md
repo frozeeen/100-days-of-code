@@ -196,3 +196,14 @@
 **Thoughts:** Planning to revise the seeder, but next time.
 
 **Link to work:** [**475bba**](https://github.com/frozeeen/pixseed/commit/475bba6a7d192a36ba168ed408213b63a9c19e9a).
+
+---
+
+### Day 20:  April 20, Wednesday
+
+**Today's Progress:** Just playing with OpenCV.
+
+**Thoughts:** Still can't see youuuu.
+
+**Link(s) to work**
+1. [OpenCV](https://opencv.org/)
