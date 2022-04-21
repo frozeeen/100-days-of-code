@@ -207,3 +207,14 @@
 
 **Link(s) to work**
 1. [OpenCV](https://opencv.org/)
+
+---
+
+### Day 21:  April 21, Thursday
+
+**Today's Progress:** Learned some basic Fortran.
+
+**Thoughts:** Thanks Tutorialspoint very cool 👍.
+
+**Link(s) to work**
+1. [OpenCV](https://tutorialspoint.com/)
