@@ -218,3 +218,14 @@
 
 **Link(s) to work**
 1. [OpenCV](https://tutorialspoint.com/)
+
+---
+
+### Day 22:  April 22, Friday
+
+**Today's Progress:** Continue playing with OpenCV.
+
+**Thoughts:** Still you can't see meee.
+
+**Link(s) to work**
+1. [OpenCV](https://opencv.org/)
