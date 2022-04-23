@@ -217,7 +217,7 @@
 **Thoughts:** Thanks Tutorialspoint very cool 👍.
 
 **Link(s) to work**
-1. [OpenCV](https://tutorialspoint.com/)
+1. [TutorialsPoint](https://tutorialspoint.com/)
 
 ---
 
@@ -229,3 +229,15 @@
 
 **Link(s) to work**
 1. [OpenCV](https://opencv.org/)
+
+---
+
+### Day 23:  April 23, Saturday
+
+**Today's Progress:** Another day playing with OpenCV with some Codeigniter stuff.
+
+**Thoughts:** Is contour that powerful?.
+
+**Link(s) to work**
+1. [OpenCV](https://opencv.org/)
+2. [CodeIgniter](https://www.codeigniter.com/)
