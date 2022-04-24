@@ -241,3 +241,14 @@
 **Link(s) to work**
 1. [OpenCV](https://opencv.org/)
 2. [CodeIgniter](https://www.codeigniter.com/)
+
+---
+
+### Day 24:  April 24, Sunday
+
+**Today's Progress:** Some python to automate 1 minute chore 😆.
+
+**Thoughts:** Just one script to do it.
+
+**Link(s) to work**
+1. [Python](https://https://www.python.org/)
