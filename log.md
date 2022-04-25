@@ -252,3 +252,14 @@
 
 **Link(s) to work**
 1. [Python](https://https://www.python.org/)
+
+---
+
+### Day 25:  April 25, Monday
+
+**Today's Progress:** Another day of python with netcat.
+
+**Thoughts:** Meow.
+
+**Link(s) to work**
+1. [Python](https://https://www.python.org/)
