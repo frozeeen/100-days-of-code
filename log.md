@@ -251,7 +251,7 @@
 **Thoughts:** Just one script to do it.
 
 **Link(s) to work**
-1. [Python](https://https://www.python.org/)
+1. [Python](https://www.python.org/)
 
 ---
 
@@ -262,4 +262,15 @@
 **Thoughts:** Meow.
 
 **Link(s) to work**
-1. [Python](https://https://www.python.org/)
+1. [Python](https://www.python.org/)
+
+---
+
+### Day 26:  April 26, Tuesday
+
+**Today's Progress:** Bash with netcat.
+
+**Thoughts:** Meow meow.
+
+**Link(s) to work**
+1. [tutorialspoint](https://www.tutorialspoint.com)
