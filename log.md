@@ -274,3 +274,11 @@
 
 **Link(s) to work**
 1. [tutorialspoint](https://www.tutorialspoint.com)
+
+---
+
+### Day 27:  April 27, Wednesday
+
+**Today's Progress:** Codeigniter and Halstead metrics.
+
+**Thoughts:** Maybe gonna spend some hours per day here.
