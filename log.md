@@ -282,3 +282,11 @@
 **Today's Progress:** Codeigniter and Halstead metrics.
 
 **Thoughts:** Maybe gonna spend some hours per day here.
+
+---
+
+### Day 28:  April 28, Thursday
+
+**Today's Progress:** Another day of halstead metrics and python regex.
+
+**Thoughts:** Told you 😉.
