@@ -290,3 +290,11 @@
 **Today's Progress:** Another day of halstead metrics and python regex.
 
 **Thoughts:** Told you 😉.
+
+---
+
+### Day 29:  April 29, Friday
+
+**Today's Progress:** #AYeyDay, Last day of metrics and other stuff.
+
+**Thoughts:** Done, now let's go to the other exciting part.
