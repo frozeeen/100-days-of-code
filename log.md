@@ -298,3 +298,12 @@
 **Today's Progress:** #AYeyDay, Last day of metrics and other stuff.
 
 **Thoughts:** Done, now let's go to the other exciting part.
+
+---
+
+### Day 39:  April 30, Saturday
+
+**Today's Progress:** Another day of learning python, shell and more 😊.
+
+**Thoughts:** 30 days'kun.
+
