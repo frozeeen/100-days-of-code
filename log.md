@@ -301,9 +301,17 @@
 
 ---
 
-### Day 39:  April 30, Saturday
+### Day 30:  April 30, Saturday
 
 **Today's Progress:** Another day of learning python, shell and more 😊.
 
 **Thoughts:** 30 days'kun.
+
+---
+
+### Day 31:  May 01, Sunday
+
+**Today's Progress:** NodeJS with MongoDB.
+
+**Thoughts:** 31st day'kun.
 
