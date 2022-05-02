@@ -315,3 +315,11 @@
 
 **Thoughts:** 31st day'kun.
 
+---
+
+### Day 32:  May 02, Monday
+
+**Today's Progress:** NodeJS with MongoDB Day 2.
+
+**Thoughts:** Tom, I'm going to start learning about the testing that Sir Arvic talked about 😙👌.
+
