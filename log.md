@@ -323,3 +323,13 @@
 
 **Thoughts:** Tom, I'm going to start learning about the testing that Sir Arvic talked about 😙👌.
 
+---
+
+### Day 33:  May 03, Tuesday
+
+**Today's Progress:** Started reading about Unit Testing and learning how to utilize the PHP CLI.
+
+**Thoughts:** I want to create a CLI but I think to do that, I need dependencies.
+
+**Link(s) to work**
+1. [PHP](https://www.php.net/manual/en/features.commandline.php)
