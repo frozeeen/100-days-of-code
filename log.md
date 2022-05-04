@@ -333,3 +333,14 @@
 
 **Link(s) to work**
 1. [PHP](https://www.php.net/manual/en/features.commandline.php)
+
+---
+
+### Day 34:  May 04, Wednesday
+
+**Today's Progress:** Just a continuation of yesterday.
+
+**Thoughts:** But I'm side tracked on another topic HAHAHA.
+
+**Link(s) to work**
+1. [PHP](https://www.php.net/manual/en/features.commandline.php)
