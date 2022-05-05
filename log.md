@@ -344,3 +344,11 @@
 
 **Link(s) to work**
 1. [PHP](https://www.php.net/manual/en/features.commandline.php)
+
+---
+
+### Day 35:  May 05, Thursday
+
+**Today's Progress:** Studying Testing and studying LSTM.
+
+**Thoughts:** I'm side tracked on another topic again.
