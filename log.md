@@ -352,3 +352,11 @@
 **Today's Progress:** Studying Testing and studying LSTM.
 
 **Thoughts:** I'm side tracked on another topic again.
+
+---
+
+### Day 36:  May 06, Friday
+
+**Today's Progress:** LSTM and shell scripting as of today.
+
+**Thoughts:** I'm side tracked on another topic again, again and again.
