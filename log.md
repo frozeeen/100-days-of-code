@@ -360,3 +360,11 @@
 **Today's Progress:** LSTM and shell scripting as of today.
 
 **Thoughts:** I'm side tracked on another topic again, again and again.
+
+---
+
+### Day 37:  May 07, Saturday
+
+**Today's Progress:** Started Learning Svelte.
+
+**Thoughts:** While browsing youtube, I decided to learn Svelte .
