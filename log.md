@@ -368,3 +368,11 @@
 **Today's Progress:** Started Learning Svelte.
 
 **Thoughts:** While browsing youtube, I decided to learn Svelte .
+
+---
+
+### Day 38:  May 08, Sunday
+
+**Today's Progress:** Moving to Sveltekit.
+
+**Thoughts:** noiceeee 🪑.
