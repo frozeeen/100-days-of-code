@@ -376,3 +376,11 @@
 **Today's Progress:** Moving to Sveltekit.
 
 **Thoughts:** noiceeee 🪑.
+
+---
+
+### Day 39:  May 09, Monday
+
+**Today's Progress:** SvelteKit Day 2.
+
+**Thoughts:** noiceeee 🪑 2.
