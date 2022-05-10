@@ -384,3 +384,11 @@
 **Today's Progress:** SvelteKit Day 2.
 
 **Thoughts:** noiceeee 🪑 2.
+
+---
+
+### Day 40:  May 10, Tuesday
+
+**Today's Progress:** Figma to HTML and CSS.
+
+**Thoughts:** Bravo six going dark 🌑.
