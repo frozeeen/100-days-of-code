@@ -392,3 +392,11 @@
 **Today's Progress:** Figma to HTML and CSS.
 
 **Thoughts:** Bravo six going dark 🌑.
+
+---
+
+### Day 41:  May 11, Wednesday
+
+**Today's Progress:** Figma to HTML and CSS Day 2.
+
+**Thoughts:** Hm.
