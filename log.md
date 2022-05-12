@@ -400,3 +400,11 @@
 **Today's Progress:** Figma to HTML and CSS Day 2.
 
 **Thoughts:** Hm.
+
+---
+
+### Day 42:  May 12 Thursday
+
+**Today's Progress:** Learning Sveltekit.
+
+**Thoughts:** Freeze saved us HAHA.
