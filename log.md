@@ -403,8 +403,16 @@
 
 ---
 
-### Day 42:  May 12 Thursday
+### Day 42:  May 12, Thursday
 
 **Today's Progress:** Learning Sveltekit.
 
 **Thoughts:** Freeze saved us HAHA.
+
+---
+
+### Day 43:  May 13, Friday
+
+**Today's Progress:** Learning Sveltekit.
+
+**Thoughts:** Vue vs Svelte huh, but both are good.
