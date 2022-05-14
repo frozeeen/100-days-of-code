@@ -416,3 +416,11 @@
 **Today's Progress:** Learning Sveltekit.
 
 **Thoughts:** Vue vs Svelte huh, but both are good.
+
+---
+
+### Day 44:  May 14, Saturday
+
+**Today's Progress:** Another day of Figma to HTML&CSS.
+
+**Thoughts:** Several days left... several days left.
