@@ -432,3 +432,11 @@
 **Today's Progress:** Yet another day of Figma to HTML&CSS.
 
 **Thoughts:** Yet several days left... several days left.
+
+---
+
+### Day 46:  May 16, Monday
+
+**Today's Progress:** Another day of Figma to HTML&CSS again.
+
+**Thoughts:** Some refresher, still learning a lot.
