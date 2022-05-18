@@ -445,6 +445,6 @@
 
 ### Day 47:  May 17, Tuesday
 
-**Today's Progress:** Another day of Figma to HTML&CSS again but with CodeIgniter.
+**Today's Progress:** Yet another day of Figma to HTML&CSS again but with CodeIgniter.
 
-**Thoughts:** Some refresher, still learning a lot.
+**Thoughts:** Some refresher, still learning a lot and also + editor skill HAHA.
