@@ -456,3 +456,11 @@
 **Today's Progress:** Yet another day of Figma to HTML&CSS again but with CodeIgniter.
 
 **Thoughts:** Some refresher, still learning a lot and also + editor skill HAHA.
+
+---
+
+### Day 49:  May 19, Thursday
+
+**Today's Progress:** Passed major acads requirements and also playing with NodeJS and Heroku.
+
+**Thoughts:** Bravo six, going light. Shesh!.
