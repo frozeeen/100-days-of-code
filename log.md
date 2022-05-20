@@ -464,3 +464,14 @@
 **Today's Progress:** Passed major acads requirements and also playing with NodeJS and Heroku.
 
 **Thoughts:** Bravo six, going light. Shesh!.
+
+---
+
+### Day 50:  May 20, Friday
+
+**Today's Progress:** SvelteKit and SocketIO.
+
+**Thoughts:** Now I'm inlove with Svelte 😙👌🏻.
+
+**Link(s) to work**
+1. [Svelte](https://svelte.dev/tutorial)
