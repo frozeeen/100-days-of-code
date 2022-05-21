@@ -475,3 +475,14 @@
 
 **Link(s) to work**
 1. [Svelte](https://svelte.dev/tutorial)
+
+---
+
+### Day 51:  May 21, Saturday
+
+**Today's Progress:** SvelteKitingggg.
+
+**Thoughts:** Welll welll welllll.
+
+**Link(s) to work**
+1. [Svelte](https://svelte.dev/tutorial)
