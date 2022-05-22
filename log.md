@@ -486,3 +486,11 @@
 
 **Link(s) to work**
 1. [Svelte](https://svelte.dev/tutorial)
+
+---
+
+### Day 52:  May 22, Sunday
+
+**Today's Progress:** Some random PHP code surgery because of deliverables.
+
+**Thoughts:** Ohhhh here we goooo (not again).
