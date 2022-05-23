@@ -494,3 +494,11 @@
 **Today's Progress:** Some random PHP code surgery because of deliverables.
 
 **Thoughts:** Ohhhh here we goooo (not again).
+
+---
+
+### Day 53:  May 23, Monday
+
+**Today's Progress:** No coding for today, but discussing and spending time with co-devs Sir Arvic 💕.
+
+**Thoughts:** Chocoloate'sssss 🍫.
