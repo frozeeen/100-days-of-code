@@ -510,3 +510,11 @@
 **Today's Progress:** Roboticsss.
 
 **Thoughts:** Dit dotttt.
+
+---
+
+### Day 55:  May 25, Wednesday
+
+**Today's Progress:** Robotics Day 2.
+
+**Thoughts:** Wait it's a series?.
