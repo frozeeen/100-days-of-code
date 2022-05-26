@@ -518,3 +518,11 @@
 **Today's Progress:** Robotics Day 2.
 
 **Thoughts:** Wait it's a series?.
+
+---
+
+### Day 56:  May 26, Thursday
+
+**Today's Progress:** Front-end skill++.
+
+**Thoughts:** But with bootstrap HAHA!.
