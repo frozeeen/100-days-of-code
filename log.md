@@ -526,3 +526,11 @@
 **Today's Progress:** Front-end skill++.
 
 **Thoughts:** But with bootstrap HAHA!.
+
+---
+
+### Day 57:  May 27, Friday
+
+**Today's Progress:** For todaysss videoo, bootstrap because why not.
+
+**Thoughts:** Boooootstrap.
