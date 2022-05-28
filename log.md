@@ -534,3 +534,11 @@
 **Today's Progress:** For todaysss videoo, bootstrap because why not.
 
 **Thoughts:** Boooootstrap.
+
+---
+
+### Day 58:  May 28, Saturday
+
+**Today's Progress:** Out of nowhere I decided to learn TypeScript.
+
+**Thoughts:** And it's worth it! HAHA!.
