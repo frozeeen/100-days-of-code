@@ -542,3 +542,11 @@
 **Today's Progress:** Out of nowhere I decided to learn TypeScript.
 
 **Thoughts:** And it's worth it! HAHA!.
+
+---
+
+### Day 59:  May 29, Sunday
+
+**Today's Progress:** TypeScript Day 2.
+
+**Thoughts:** Reading TFM.
