@@ -550,3 +550,11 @@
 **Today's Progress:** TypeScript Day 2.
 
 **Thoughts:** Reading TFM.
+
+---
+
+### Day 60:  May 30, Monday
+
+**Today's Progress:** PHP Design Patterns.
+
+**Thoughts:** Sidetracked again HAHAHAH.
