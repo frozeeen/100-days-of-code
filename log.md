@@ -558,3 +558,11 @@
 **Today's Progress:** PHP Design Patterns.
 
 **Thoughts:** Sidetracked again HAHAHAH.
+
+---
+
+### Day 61:  May 31, Tuesday
+
+**Today's Progress:** PHP Design Patterns Day 2.
+
+**Thoughts:** But not just PHP but also client-side stuff.
