@@ -566,3 +566,14 @@
 **Today's Progress:** PHP Design Patterns Day 2.
 
 **Thoughts:** But not just PHP but also client-side stuff.
+
+---
+
+### Day 62  June 1, Wednesday
+
+**Today's Progress:** PHP Design Patterns Day 3 and Svelte.
+
+**Thoughts:** I'm just really messing with PHP patterns, which, how and why not? 😆.
+
+**Link(s) to work**
+1. [Svelte](https://svelte.dev/tutorial)
