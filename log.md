@@ -569,7 +569,7 @@
 
 ---
 
-### Day 62  June 1, Wednesday
+### Day 62:  June 1, Wednesday
 
 **Today's Progress:** PHP Design Patterns Day 3 and Svelte.
 
@@ -577,3 +577,11 @@
 
 **Link(s) to work**
 1. [Svelte](https://svelte.dev/tutorial)
+
+---
+
+### Day 63:  June 2, Thursday
+
+**Today's Progress:** Trying to optimize my NAP-PHP.
+
+**Thoughts:** But not gonna commit and push it today.
