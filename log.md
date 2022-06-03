@@ -585,3 +585,11 @@
 **Today's Progress:** Trying to optimize my NAP-PHP.
 
 **Thoughts:** But not gonna commit and push it today.
+
+---
+
+### Day 64:  June 3, Friday
+
+**Today's Progress:** Javascript OOP.
+
+**Thoughts:** Noiceeee.
