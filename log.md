@@ -593,3 +593,11 @@
 **Today's Progress:** Javascript OOP.
 
 **Thoughts:** Noiceeee.
+
+---
+
+### Day 65:  June 4, Saturday
+
+**Today's Progress:** Javascript OOP Day 2.
+
+**Thoughts:** Javascripttttu.
