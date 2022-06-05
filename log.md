@@ -601,3 +601,11 @@
 **Today's Progress:** Javascript OOP Day 2.
 
 **Thoughts:** Javascripttttu.
+
+---
+
+### Day 66:  June 5, Sunday
+
+**Today's Progress:** Javascript OOP Day 2.
+
+**Thoughts:** Just thinking if the this design is a design HAHAHAH.
