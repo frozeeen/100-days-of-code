@@ -609,3 +609,11 @@
 **Today's Progress:** Javascript OOP Day 2.
 
 **Thoughts:** Just thinking if the this design is a design HAHAHAH.
+
+---
+
+### Day 67:  June 6, Monday
+
+**Today's Progress:** Svelte continuation and PHP.
+
+**Thoughts:** What a combo.
