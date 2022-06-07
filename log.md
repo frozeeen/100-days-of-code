@@ -617,3 +617,11 @@
 **Today's Progress:** Svelte continuation and PHP.
 
 **Thoughts:** What a combo.
+
+---
+
+### Day 68:  June 7, Tuesday
+
+**Today's Progress:** PHP and Regex.
+
+**Thoughts:** I know it's magical.
