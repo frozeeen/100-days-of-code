@@ -625,3 +625,11 @@
 **Today's Progress:** PHP and Regex.
 
 **Thoughts:** I know it's magical.
+
+---
+
+### Day 69:  June 8, Wednesday
+
+**Today's Progress:** PHP Design patterns and NodeJS.
+
+**Thoughts:** Still working on somethinggg....
