@@ -633,3 +633,11 @@
 **Today's Progress:** PHP Design patterns and NodeJS.
 
 **Thoughts:** Still working on somethinggg....
+
+---
+
+### Day 70:  June 9, Thursday
+
+**Today's Progress:** JS and SocketIO.
+
+**Thoughts:** Server: Holabels, connect ka akiskis.
