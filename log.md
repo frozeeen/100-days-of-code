@@ -641,3 +641,11 @@
 **Today's Progress:** JS and SocketIO.
 
 **Thoughts:** Server: Holabels, connect ka akiskis.
+
+---
+
+### Day 71:  June 10, Friday
+
+**Today's Progress:** JS OOP Cont.
+
+**Thoughts:** Power interruption tomorrow, see you after 6PM 😆.
