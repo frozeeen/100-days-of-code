@@ -649,3 +649,11 @@
 **Today's Progress:** JS OOP Cont.
 
 **Thoughts:** Power interruption tomorrow, see you after 6PM 😆.
+
+---
+
+### Day 72:  June 11, Saturday
+
+**Today's Progress:** Front-end with Figma.
+
+**Thoughts:** The power interruption kinda helpful tho.
