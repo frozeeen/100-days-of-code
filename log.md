@@ -673,3 +673,11 @@
 **Today's Progress:** Front-end with Figma Cont.
 
 **Thoughts:** Headache and Duplicates strikes .
+
+---
+
+### Day 75:  June 14, Tuesday
+
+**Today's Progress:** PHP at the back.
+
+**Thoughts:** Owshi.
