@@ -689,3 +689,11 @@
 **Today's Progress:** A different day as a Human that enjoys life, solving problems in real-life scenarios and also implementing algorithm that should work to execute a perfect plan.
 
 **Thoughts:** 🏊‍♀️🥽.
+
+---
+
+### Day 77:  June 16, Thursday
+
+**Today's Progress:** A productive day writing PHP.
+
+**Thoughts:** .
