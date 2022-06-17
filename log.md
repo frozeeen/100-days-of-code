@@ -696,4 +696,12 @@
 
 **Today's Progress:** A productive day writing PHP.
 
-**Thoughts:** .
+**Thoughts:** Ohh I forgot to write a thoughts HAHAHA (Written: Day 77).
+
+---
+
+### Day 78:  June 17, Friday
+
+**Today's Progress:** Another productive day I guess writing PHP.
+
+**Thoughts:** Design is the key.
