@@ -705,3 +705,11 @@
 **Today's Progress:** Another productive day I guess writing PHP.
 
 **Thoughts:** Design is the key.
+
+---
+
+### Day 79:  June 18, Saturday
+
+**Today's Progress:** Just a little bit of coding for today, just some testing.
+
+**Thoughts:** Tired FR FR shesh.
