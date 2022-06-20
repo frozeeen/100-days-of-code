@@ -721,3 +721,11 @@
 **Today's Progress:** Updating a PHP project.
 
 **Thoughts:** Tired again FR FR shesh.
+
+---
+
+### Day 81:  June 20, Monday
+
+**Today's Progress:** PHP and Shell.
+
+**Thoughts:** Boilerplate goes brrrrrr.
