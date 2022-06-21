@@ -729,3 +729,11 @@
 **Today's Progress:** PHP and Shell.
 
 **Thoughts:** Boilerplate goes brrrrrr.
+
+---
+
+### Day 82:  June 21, Tuesday
+
+**Today's Progress:** PHP and Javascript again.
+
+**Thoughts:** The file_* function of PHP is just sweeeetttttt.
