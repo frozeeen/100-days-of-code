@@ -737,3 +737,11 @@
 **Today's Progress:** PHP and Javascript again.
 
 **Thoughts:** The file_* function of PHP is just sweeeetttttt.
+
+---
+
+### Day 83:  June 22, Wednesday
+
+**Today's Progress:** PHP and exploring servers.
+
+**Thoughts:** SERVER, S for server, E for erver, R for rver, V for ver, E for er and R for Rocket.
