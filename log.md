@@ -745,3 +745,11 @@
 **Today's Progress:** PHP and exploring servers.
 
 **Thoughts:** SERVER, S for server, E for erver, R for rver, V for ver, E for er and R for Rocket.
+
+---
+
+### Day 84:  June 23, Thursday
+
+**Today's Progress:** PHP and C++.
+
+**Thoughts:** Objectssss.
