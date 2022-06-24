@@ -753,3 +753,11 @@
 **Today's Progress:** PHP and C++.
 
 **Thoughts:** Objectssss.
+
+---
+
+### Day 85:  June 24, Friday
+
+**Today's Progress:** PHP againnnn.
+
+**Thoughts:** $$$$$$$$$$$$$$$$$$.
