@@ -761,3 +761,11 @@
 **Today's Progress:** PHP againnnn.
 
 **Thoughts:** $$$$$$$$$$$$$$$$$$.
+
+---
+
+### Day 86:  June 25, Saturday
+
+**Today's Progress:** PHP again and reading something scary (which is my documentation).
+
+**Thoughts:** UpDownVote.
