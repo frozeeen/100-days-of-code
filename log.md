@@ -769,3 +769,11 @@
 **Today's Progress:** PHP again and reading something scary (which is my documentation).
 
 **Thoughts:** UpDownVote.
+
+---
+
+### Day 87:  June 26, Sunday
+
+**Today's Progress:** PHP CLI.
+
+**Thoughts:** Sooooo it's on 🔥.
