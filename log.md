@@ -777,3 +777,11 @@
 **Today's Progress:** PHP CLI.
 
 **Thoughts:** Sooooo it's on 🔥.
+
+---
+
+### Day 88:  June 27, Monday
+
+**Today's Progress:** A little bit of PHP, Competitive Programming and Svelte.
+
+**Thoughts:** It's svveeelteee.
