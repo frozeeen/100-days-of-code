@@ -785,3 +785,11 @@
 **Today's Progress:** A little bit of PHP, Competitive Programming and Svelte.
 
 **Thoughts:** It's svveeelteee.
+
+---
+
+### Day 89:  June 28, Tuesday
+
+**Today's Progress:** Svelte.
+
+**Thoughts:** I need to organize tho.
