@@ -809,3 +809,11 @@
 **Today's Progress:** Svelte and PHP Again.
 
 **Thoughts:** Bye June.
+
+---
+
+### Day 92:  July 01, Friday
+
+**Today's Progress:** PHP and Go.
+
+**Thoughts:** I need to learn it, I need to learn it...
