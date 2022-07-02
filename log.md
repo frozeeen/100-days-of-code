@@ -817,3 +817,11 @@
 **Today's Progress:** PHP and Go.
 
 **Thoughts:** I need to learn it, I need to learn it...
+
+---
+
+### Day 93:  July 02, Saturday
+
+**Today's Progress:** PHP and Go Day 2.
+
+**Thoughts:** Just reading and coding.
