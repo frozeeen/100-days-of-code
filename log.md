@@ -825,3 +825,11 @@
 **Today's Progress:** PHP and Go Day 2.
 
 **Thoughts:** Just reading and coding.
+
+---
+
+### Day 94:  July 03, Sunday
+
+**Today's Progress:** Go Day 3.
+
+**Thoughts:** In a mood of testing :P.
