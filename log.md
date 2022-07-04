@@ -833,3 +833,11 @@
 **Today's Progress:** Go Day 3.
 
 **Thoughts:** In a mood of testing :P.
+
+---
+
+### Day 95:  July 04, Monday
+
+**Today's Progress:** GraphQL.
+
+**Thoughts:** SQL vs NOSQL vs GraphQL now huhhh.
