@@ -841,3 +841,11 @@
 **Today's Progress:** GraphQL.
 
 **Thoughts:** SQL vs NOSQL vs GraphQL now huhhh.
+
+---
+
+### Day 96:  July 05, Tuesday
+
+**Today's Progress:** C++ and GraphQL.
+
+**Thoughts:** Failed to update this log because of emergency power interruption.
