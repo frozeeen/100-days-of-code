@@ -849,3 +849,11 @@
 **Today's Progress:** C++ and GraphQL.
 
 **Thoughts:** Failed to update this log because of emergency power interruption.
+
+---
+
+### Day 97:  July 06, Wednesday
+
+**Today's Progress:** Javascript.
+
+**Thoughts:** Today not so much coding but reading and testing stuff.
