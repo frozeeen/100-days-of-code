@@ -857,3 +857,11 @@
 **Today's Progress:** Javascript.
 
 **Thoughts:** Today not so much coding but reading and testing stuff.
+
+---
+
+### Day 98:  July 07, Thursday
+
+**Today's Progress:** PHP Headers and such.
+
+**Thoughts:** I feel like that dream is about to die().
