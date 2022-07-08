@@ -865,3 +865,11 @@
 **Today's Progress:** PHP Headers and such.
 
 **Thoughts:** I feel like that dream is about to die().
+
+---
+
+### Day 99:  July 08, Friday
+
+**Today's Progress:** PHP and NoSQL.
+
+**Thoughts:** Last one brt brt.
