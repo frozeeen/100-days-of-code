@@ -873,3 +873,11 @@
 **Today's Progress:** PHP and NoSQL.
 
 **Thoughts:** Last one brt brt.
+
+---
+
+### Day 100:  July 09, Saturday
+
+**Today's Progress:** Finishing this while playing around with PostgreSQL.
+
+**Thoughts:** 100 #100DaysOfCode challenge, DONE.
